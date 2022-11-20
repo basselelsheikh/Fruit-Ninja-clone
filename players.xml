@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Players>
+    <player>
+        <name>Bassel</name>
+        <difficulty>0</difficulty>
+        <lives>3</lives>
+        <classicHighScore>2500</classicHighScore>
+        <mode>0</mode>
+        <arcadeHighScore>0</arcadeHighScore>
+        <score>0</score>
+    </player>
+    <player>
+        <name>ghgh</name>
+        <difficulty>0</difficulty>
+        <lives>3</lives>
+        <classicHighScore>0</classicHighScore>
+        <mode>0</mode>
+        <arcadeHighScore>0</arcadeHighScore>
+        <score>0</score>
+    </player>
+</Players>
